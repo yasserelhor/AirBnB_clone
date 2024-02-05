@@ -4,8 +4,7 @@
    / /\ \ | | '__| '_ \| '_ \| '_ \  | |    / _ \| '_ \/ __|/ _ \| |/ _ \
   / ____ \| | |  | |_) | | | | |_) | | |___| (_) | | | \__ \ (_) | |  __/
  /_/    \_\_|_|  |_.__/|_| |_|_.__/   \_____\___/|_| |_|___/\___/|_|\___|
-                                                                         
-                                                                                                                                    
+
 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻:
 
 This project is an Airbnb console implemented in Python. It provides a command-line interface (CLI) for managing Airbnb-like property listings, bookings, and users.
