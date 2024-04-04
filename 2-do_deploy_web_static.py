@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Fabric script that distributes an archive to your web servers,
+This Fabric Script distributes an archive to your web servers,
 using the function do_deploy
 """
 from fabric.api import local, put, run, env, sudo
@@ -11,7 +11,7 @@ env.hosts = ['34.227.101.152', '54.160.126.125']
 
 
 def do_deploy(archive_path):
-    """Function to deploy"""
+    """Deploy Function"""
     if not path.exists(archive_path):
         return False
     try:
